@@ -1,4 +1,4 @@
-﻿// Паттерн 000: 2х метрный массив строчный (string) 
+﻿// Паттерн 000: 2х мерный массив строчный (string) 
 Console.Clear();
 
 void PrintArray(string[,] arg)
